@@ -1,0 +1,2 @@
+# HACKING
+Insyaallah berhasill
